@@ -7,4 +7,5 @@ Can show alot more then just the temprature.
 
 ```C#
 Add the APIKEY in the Creds.cs class
+public const string APIKEY = "yourkey"
 ```

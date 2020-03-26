@@ -1,4 +1,4 @@
-# Weatherstation with API from https://openweathermap.org/
+# Weatherstation with the use of API from https://openweathermap.org/
 Showing the current temprature based on city from openweather API
 
 Easy and simple to use, just go to https://openweathermap.org/ and register an account and get an API-key

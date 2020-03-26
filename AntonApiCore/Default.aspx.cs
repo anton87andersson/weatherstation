@@ -16,7 +16,7 @@ namespace AntonApiCore
     {
         // Set the Values for API https://openweathermap.org/
 
-        string apikey = "ed5b646a676bec3d15f7f13b3299ebd9";
+        string apikey = Creds.APIKEY;
         string units =  "metric"; 
 
         protected void Page_Load(object sender, EventArgs e)
